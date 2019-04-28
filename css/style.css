@@ -1,0 +1,108 @@
+body{
+	background-color: #EEEEEE;
+    
+}
+.container{
+	width: 100%;
+	margin-top: 20px;
+}
+h1{
+    text-align: center;
+}
+.first_box{
+    background-color: white;
+}
+
+.first_row{
+    float: left;
+    width: 31.5%;
+    margin:20px 10px;
+    background-color: #DBDDDC;
+}
+
+.second_row{
+    float: left;
+    width: 31.5%;
+    margin:20px 10px;
+    background-color: #DBDDDC;
+}
+.third_row{
+    float: left;
+    width: 31.5%;
+    margin:20px 10px;
+    background-color: #DBDDDC;
+}
+.fourth_row{
+    float: left;
+    width: 31.5%;
+    margin:20px 10px;
+    background-color: #DBDDDC;
+}
+.fifth_row{
+    float: left;
+    width: 31.5%;
+    margin:20px 10px;
+    background-color: #DBDDDC;
+}
+.six_row{
+    float:left;
+    width: 31.5%;
+    margin:20px 10px;
+    background-color: #DBDDDC;
+}
+h3{
+    margin-left: 20px;
+}
+p{
+    margin: 20px 20px;
+}
+
+
+h2{
+    text-align: center;
+    margin: 20px;
+}
+
+.portfolio1{
+    width: 31.2%;
+    height: 200px;
+    float: left;
+    margin: 10px 10px;
+    background-color:yellow;
+
+}
+.portfolio2{
+    width: 31.2%;
+    height: 200px;
+    float: left;
+    margin: 10px 10px;
+    background-color:yellow;
+}
+.portfolio3{
+    width: 31.2%;
+    height: 200px;
+    float: left;
+    margin: 10px 10px;
+    background-color:yellow;
+}
+.portfolio4{
+    width: 31.2%;
+    height: 200px;
+    float: left;
+    margin: 10px 10px;
+    background-color:yellow;
+}
+.portfolio5{
+    width: 31.2%;
+    height: 200px;
+    float: left;
+    margin: 10px 10px;
+    background-color:yellow;
+}
+.portfolio6{
+    width: 31.2%;
+    height: 200px;
+    float: left;
+    margin: 10px 10px;
+    background-color:yellow;
+}
